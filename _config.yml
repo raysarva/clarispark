@@ -1,0 +1,17 @@
+title: Claris Park
+email: pclaris@sas.upenn.edu
+description: >
+  Claris Park is an actor and a writer.
+  Read her writing, see images of her past performaces, and find out about her upcoming shows here. 
+baseurl: ""
+url: "htpp://clarispark.com"
+twitter_username: ClaReesePark
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
